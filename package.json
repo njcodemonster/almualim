@@ -1,0 +1,13 @@
+{
+  "name": "almuallimtravels",
+  "version": "1.0.0",
+  "description": "Landing page for Al Muallim Travels",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
